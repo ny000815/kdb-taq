@@ -27,7 +27,7 @@ These files are ~2GB each so may take significant time to download.
 Clone the kdb-taq repository to your server:
 
 ```bash
-git clone https://github.com/KxSystems/kdb-taq.git
+git clone https://github.com/ny000815/kdb-taq.git
 cd kdb-taq
 ```
 
